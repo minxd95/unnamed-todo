@@ -34,10 +34,7 @@
     "extends": null,
     "appId": "com.example.electron-cra",
     "files": [
-      "dist/**/*",
-      "build/**/*",
-      "node_modules/**/*",
-      "package.json"
+      "build/**/*"
     ],
     "directories": {
       "buildResources": "assets"
